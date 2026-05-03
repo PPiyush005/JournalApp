@@ -37,7 +37,7 @@ MongoDB (local or Atlas)
 
 Run Locally
 bash# Clone the repository
-git clone https://github.com/your-username/journal-app.git
+git clone https://github.com/your-username/Journalapp.git
 
 # Navigate to project directory
 cd journal-app
